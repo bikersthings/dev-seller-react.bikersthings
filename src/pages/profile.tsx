@@ -1,7 +1,7 @@
 export default () => {
     return (
         <>
-            <h1>profileee</h1>
+            <h1>profile</h1>
         </>
     )
 }

@@ -12,7 +12,6 @@ export default () => {
                 <div className="row">
                     <div className="col-lg-2">
                         <CardCoupon />
-                        test
                     </div>
                 </div>
             </div>
