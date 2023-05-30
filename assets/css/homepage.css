@@ -1,0 +1,11 @@
+.brands,
+.category {
+  margin-bottom: 30px;
+}
+.brands .swiper .swiper-slide,
+.category .swiper .swiper-slide {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=homepage.css.map */
